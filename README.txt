@@ -1,5 +1,4 @@
 Shannon Paul
-101178140
 
 to execute:
 	python3 final_project.py
