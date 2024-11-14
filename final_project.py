@@ -1,6 +1,4 @@
-# Final Project - COMP 4102
 # Shannon Paul
-# 101178140
 
 # ----------------------------------------------------------------
 # This application takes a dataset of astrophotography photos. 
