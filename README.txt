@@ -17,7 +17,8 @@ source files:
 	final_project.py
 
 example output:
-	![before_and_after_stacking.jpg](https://github.com/shannonpaul3/astrophotography-stacking/blob/main/before_and_after_stacking.jpg?raw=true)
+
+![Before and After](https://raw.githubusercontent.com/shannonpaul3/astrophotography-stacking/main/before_and_after_stacking.jpg)
 
 /result_image:
 	This is where the final images will save.
