@@ -16,11 +16,16 @@ to install libraries (using pip):
 source files:
 	final_project.py
 
+example output:
+	![before_and_after_stacking.jpeg](before_and_after_stacking.jpeg)
+
 /result_image:
 	This is where the final images will save.
 
-Line 21 in source code dataset = 'dataset/dataset_1/*.png' 
-may be adjusted to select one of the following datasets. 
+***Line 21 in source code dataset = 'dataset/dataset_1/*.png' 
+must be adjusted to point to a dataset.***
+
+Dataset file structure can look like the following: 
 
 /dataset/dataset_1:
 	satr1.png
@@ -37,17 +42,6 @@ may be adjusted to select one of the following datasets.
 	sample1.3.png
 	sample1.4.png
 	sample1.5.png
-
-/dataset_3_ex_out:
-	compared.png
-	manual_stack.png
-	median_stack.png
-
-	This folder contains the example output when running the code
-	with dataset_3
-
-Documentation:
-	Astrophotography and Image Stacking.pdf
 
 Resources:
 
