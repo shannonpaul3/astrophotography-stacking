@@ -18,7 +18,7 @@ source files:
 
 example output:
 
-![Before and After](https://raw.githubusercontent.com/shannonpaul3/astrophotography-stacking/main/before_and_after_stacking.jpg)
+![Before and After](output_example/before_and_after_stacking.jpg)
 
 /result_image:
 	This is where the final images will save.
