@@ -17,7 +17,7 @@ source files:
 	final_project.py
 
 example output:
-	![before_and_after_stacking.jpeg](before_and_after_stacking.jpeg)
+	![before_and_after_stacking.jpg](before_and_after_stacking.jpg)
 
 /result_image:
 	This is where the final images will save.
